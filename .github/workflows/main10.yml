@@ -23,7 +23,7 @@ jobs:
       - name: Checkout private repo (Cookies)
         uses: actions/checkout@v4
         with:
-          repository: bongsart/Cookie # <- replace yourusername with your GitHub username
+          repository: cheadaalin/Cookie # <- replace yourusername with your GitHub username
           token: ${{ secrets.PRIVATE_REPO_TOKEN }}
           path: private_data # folder in workflow runner
 
