@@ -5,6 +5,6 @@ if __name__ == "__main__":
     print("✅ Running session")
     driver = setup("SophSanto589")
     # smooth_scroll(driver)
-    work(driver,"SophSanto589","https://x.com/Viviwie6c")
+    work(driver,"SophSanto589","https://x.com/AngeTjand936")
     
 #https://x.com/SophSanto589
